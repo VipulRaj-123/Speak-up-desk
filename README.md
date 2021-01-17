@@ -65,28 +65,66 @@ MySQL
 
 
 **How To Run The Project?**
+
+
+
+
 To run this project, you must have installed a virtual server i.e XAMPP on your PC (for Windows). This Crime Reporting System is in PHP.
+
+
 
 Open XAMPP Control Panel and Start Apache and MySQL in XAMPP, follow the following steps.
 
+
+
 1st step: Download zip file from the github.
+
+
 2nd Step: Extract file.
+
+
 3rd Step: Copy the main project folder
+
+
 4th Step: Paste in xampp/htdocs/
 
+
+
 5th Step: Open a browser and go to URL “http://localhost/phpmyadmin/”
+
+
 6th Step: Then, click on the databases tab
+
+
 7th Step: Create a database naming “station” and then click on the import tab
+
+
+
 8th Step: Click on browse file and select “station.sql” file which is inside the “Speak_UP_Desk-main” folder
+
+
+
 9th Step: Click on go.
+
+
 
 After Creating Database,
 
+
+
 10th Step: Open a browser and go to URL “http://localhost/Speak_UP_Desk-main/”
+
+
 11th step: visit all page. Admin and user's password and email is given below.
-(All buttons are working and on registering any thing creates data in database)
+
+
+(All buttons are working and on registering any thing creates data in database
+
+
 
 **admin email is "admin@admin.com"  and password is "admin1234"   **
+
+
 **user email is  "fab@gmail.com"  and password is  "1234"      **
 
 
