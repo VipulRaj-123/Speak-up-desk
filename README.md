@@ -45,7 +45,7 @@ View Complaint Status
 ***Brief overview of the technology***
 
 
-**Front-end**
+##Front-end
 
 
 
@@ -56,7 +56,7 @@ Javascript/Jquery
 Bootstrap
 
 
-**Back-end**
+##Back-end
 
 
 
@@ -64,7 +64,7 @@ PHP
 MySQL
 
 
-**How To Run The Project?**
+##How To Run The Project?
 
 
 
@@ -122,10 +122,10 @@ After Creating Database,
 
 
 
-**admin email is "admin@admin.com"  and password is "admin1234"   **
+**admin email is "admin@admin.com"  and password is "admin1234"   
 
 
-**user email is  "fab@gmail.com"  and password is  "1234"      **
+**user email is  "fab@gmail.com"  and password is  "1234"      
 
 
 
